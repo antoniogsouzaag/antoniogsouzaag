@@ -24,6 +24,7 @@ Todo projeto começa por um diagnóstico e uma proposta com escopo fechado.
 | [**Members**](https://members.ia.br/) | Plataforma de vendas com área de membros |
 | [**AG LABS App**](https://aglabs.app.br/) | Geração de imagem, vídeo, música e narração com IA |
 | [**VibeKit**](https://templates.aglabs.ia.br/) | Starter kit e templates React/TypeScript para quem constrói com IA |
+| [**MeCard**](https://mecard.com.br/) | Cartão profissional digital personalizável gratuito |
 
 ## Como trabalho
 
